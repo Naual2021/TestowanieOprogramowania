@@ -13,6 +13,7 @@
 * [https://jobsforgeek.com/](https://jobsforgeek.com/job-offers?country=POLAND\&country=POLAND\&jobCategory=TESTER)
 * [https://theprotocol.it/](https://theprotocol.it/)
 * [https://pl.indeed.com/praca](https://pl.indeed.com/praca)
+* [https://www.gowork.pl/](https://www.gowork.pl/praca)
 * [https://www.pracuj.pl/](https://www.pracuj.pl/)
 * [https://www.praca.pl/](https://www.praca.pl/)
 * [https://www.olx.pl/praca/](https://www.olx.pl/praca/)
