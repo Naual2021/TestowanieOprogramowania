@@ -21,6 +21,7 @@ Gdzie jeszcze szukać:
 * [https://nofluffjobs.com/juniors](https://nofluffjobs.com/juniors)
 * [http://www.juniorjobsonly.com/](http://www.juniorjobsonly.com/)
 * [https://nofluffjobs.com/testing](https://nofluffjobs.com/testing)
+* [https://www.gowork.pl/](https://www.gowork.pl/praca)
 * [https://www.pracuj.pl/](https://www.pracuj.pl/)
 * [https://www.praca.pl/](https://www.praca.pl/)
 * [https://justjoin.it/all/testing](https://justjoin.it/all/testing)
